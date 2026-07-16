@@ -120,7 +120,7 @@
 | addy.io (AnonAddy) | 单人做的邮件别名转发 | Apple 隐藏邮箱 | 隐私·分析 | 英国 | Will Browning | 2020 | 1 | solo-creator,pure-bootstrap,oss-nonprofit | ? | active | 中 | 隐私社区 + HN | addy.io |
 | Objective-See (LuLu) | 免费开源 Mac 安全工具 | 商业 Mac 杀毒 | 独立Mac·iOS应用 | 美国 | Patrick Wardle | 2016 | 1 | solo-creator,oss-nonprofit | ? | active | 高 | 安全会议 + X | objective-see.org |
 | Little Snitch (Objective Development) | Mac 出站防火墙奥地利独立 | macOS 内置防火墙 | 独立Mac·iOS应用 | 奥地利 | Christian Starkjohann? | 2000? | 2-10 | pure-bootstrap | ? | active | 低 | Mac 高级用户社区 | obdev.at |
-| SavvyCal | 更礼貌、以你为中心的日程预约 | Calendly | 生产力·笔记 | 美国 | Derrick Reimer | 2020 | 2-10 | pure-bootstrap,solo-creator | ? | active | 高 | 播客 Art of Product | savvycal.com |
+| SavvyCal | 更礼貌、以你为中心的日程预约 | Calendly | 生产力·笔记 | 美国 | Derrick Reimer | 2020 | 2-10 | took-seed,solo-creator | ? | active | 高 | 播客 Art of Product | savvycal.com |
 | Tuple | 专为工程师打造的远程结对编程 | Zoom | 开发者工具 | 美国 | Ben Orenstein | 2018 | 2-10 | pure-bootstrap | ? | active | 高 | 播客 Art of Product / X | tuple.app |
 | Userlist | 面向SaaS的生命周期邮件自动化 | Customer.io/Intercom | 垂直SaaS | 美国? | Jane Portman & Benedikt Deicke | 2017 | 2-10 | pure-bootstrap | ? | active | 高 | 播客 UI Breakfast | userlist.com |
 | Canny | 自托管式用户反馈与路线图看板 | UserVoice/Aha | 垂直SaaS | 美国 | Andrew Rasmussen & Sarah Hum | 2017 | 11-50 | pure-bootstrap | ? | active | 高 | Sarah Hum X / build in public | canny.io |
@@ -179,12 +179,12 @@
 | PikaPods | 一键托管开源应用的小生意 | - | 本地优先·开源infra | ? | ? | 2022? | 2-10? | pure-bootstrap | ? | active | 中 | r/selfhosted | pikapods.com |
 | Hemingway Editor | 反订阅的一次买断写作打分工具 | Grammarly | newsletter·内容工具 | 美国 | Adam & Ben Long | 2013 | 2-10 | pure-bootstrap | ? | active | 中 | 免费网页版 / SEO | hemingwayapp.com |
 | flomo 浮墨笔记 | 反效率的卡片式轻笔记 | 印象笔记/Notion | 生产力·笔记 | 中国 | 刘少楠(少楠)·白光(light) | 2020 | 2-10 | pure-bootstrap | ? | active | 高 | 即刻/公众号"flomo浮墨笔记" | flomoapp.com |
-| Cubox | 中文语境的稍后读+全平台剪藏 | Pocket/Instapaper | 生产力·笔记 | 中国 | ? | 2020 | 2-10 | pure-bootstrap | ? | active | 中 | 即刻/X | cubox.pro |
+| Cubox | 中文语境的稍后读+全平台剪藏 | Pocket/Instapaper | 生产力·笔记 | 中国 | Todd(化名,法人江涛?) | 2020 | 2-10 | pure-bootstrap | ? | active | 中 | 即刻/X | cubox.pro |
 | 幕布 Mubu | 大纲笔记与思维导图一键切换 | Workflowy/XMind | 生产力·笔记 | 中国 | 郭晓力·王旭 | 2015 | 2-10 | took-seed,graceful-exit | ? | acquired(字节跳动;拟被flomo收购) | 中 | 公众号 | mubu.com |
 | wolai 我来 | Notion 的中文本地化替代 | Notion | 生产力·笔记 | 中国 | 马锐拉 | 2020 | 2-10 | took-seed,graceful-exit | ? | acquired(钉钉/阿里) | 中 | 公众号/即刻 | wolai.com |
 | Heptabase | 视觉白板做深度学习笔记 | Obsidian/Miro | 生产力·笔记 | 中国台湾 | 詹雨安 | 2021 | 2-10 | took-seed | ? | active | 中 | X | heptabase.com |
-| 白描 | 微信生态里极致的OCR小工具 | 扫描全能王 | 独立Mac·iOS应用 | 中国 | ? | 2017 | 1 | solo-creator,pure-bootstrap | ? | active | 中 | 公众号"白描" | ? |
-| 滴答清单 TickTick | GTD待办清单出海全球付费 | Todoist | 生产力·笔记 | 中国 | 袁俊·邓林川 | 2013 | 11-50 | pure-bootstrap | ? | active | 中 | 公众号/App Store | dida365.com |
+| 白描 | 微信生态里极致的OCR小工具 | 扫描全能王 | 独立Mac·iOS应用 | 中国 | 陶新乐(Tolecen) | 2017 | 1 | solo-creator,pure-bootstrap | ? | active | 中 | 公众号"白描" | ? |
+| 滴答清单 TickTick | GTD待办清单出海全球付费 | Todoist | 生产力·笔记 | 中国 | 袁俊·邓林川 | 2013 | 11-50 | took-seed | ? | active | 中 | 公众号/App Store | dida365.com |
 | 潮汐 Tide | 专注·白噪音·冥想三合一 | Calm/Headspace | 独立Mac·iOS应用 | 中国 | 郎启旭 | 2016 | 2-10 | pure-bootstrap | ? | active | 中 | 公众号"潮汐App" | tide.fm |
 | Forest 专注森林 | 种树对抗手机成瘾 | - | 独立Mac·iOS应用 | 中国台湾 | ?(Seekrtech) | 2014 | 2-10 | pure-bootstrap | ? | active | 中 | App Store/X | forestapp.cc |
 | 格志日记 Grid Diary | 问答式格子日记 | - | 独立Mac·iOS应用 | 中国 | ? | 2013 | 1 | solo-creator | ? | active | 中 | App Store/公众号 | ? |
@@ -197,7 +197,7 @@
 | Eagle | 设计师素材管理买断制 | - | 独立Mac·iOS应用 | 中国台湾 | ? | 2018 | 2-10 | pure-bootstrap | ? | active | 中 | 公众号/X | eagle.cool |
 | MWeb | 极简Markdown写作买断制 | - | 独立Mac·iOS应用 | 中国 | 朱建强 | 2015 | 1 | solo-creator | ? | active | 中 | 微博/公众号 | mweb.im |
 | Typora | 所见即所得的极简Markdown编辑器 | - | 独立Mac·iOS应用 | 中国 | Abner Lee | 2014 | 1 | solo-creator | ? | active | 低 | 官网/X | typora.io |
-| uTools | 插件化的效率工具箱 | Alfred | 开发者工具 | 中国 | ? | 2019 | 2-10 | pure-bootstrap | ? | active | 中 | 公众号/即刻 | u.tools |
+| uTools | 插件化的效率工具箱 | Alfred | 开发者工具 | 中国 | 吴乃权(法人) | 2018 | 2-10 | pure-bootstrap | ? | active | 中 | 公众号/即刻 | u.tools |
 | LobeChat (LobeHub) | 设计精美的开源AI聊天框架 | ChatGPT | 开发者工具 | 中国 | Arvin Xu(空谷) | 2023 | 2-10 | pure-bootstrap | ? | active | 高 | GitHub/即刻 | lobehub.com |
 | NextChat | 一键部署的开源AI对话前端 | ChatGPT | 开发者工具 | 中国 | Yidadaa | 2023 | 2-10 | oss-nonprofit,solo-creator | ? | active | 中 | GitHub | nextchat.dev |
 | Chatbox | 桌面端多模型AI客户端 | ChatGPT | 开发者工具 | 中国 | ? | 2023 | 1 | solo-creator | ? | active | 中 | GitHub/即刻 | chatboxai.app |
@@ -210,7 +210,7 @@
 | 科技爱好者周刊 | 一人做十几年的中文技术周刊 | - | newsletter·内容工具 | 中国 | 阮一峰 | 2018 | 1 | solo-creator | ? | active | 高 | 阮一峰博客/RSS/公众号 | ruanyifeng.com |
 | 产品沉思录 | 产品人精读的付费知识库newsletter | - | newsletter·内容工具 | 中国 | 少楠(fonter) | 2017 | 2-10 | solo-creator,pure-bootstrap | ? | active | 高 | 公众号「产品沉思录」/知识星球 | pmthinking.com |
 | MacTalk | 技术随笔起家的个人品牌 | - | newsletter·内容工具 | 中国 | 池建强 | 2012 | 1 | solo-creator | ? | active | 中 | 公众号「MacTalk」 | ? |
-| 一天世界 | 会员制人文科技博客+播客 | - | newsletter·内容工具 | 中国 | 不鸟万如一(Rio) | 2015 | 1 | solo-creator | ? | active | 中 | 一天世界 newsletter/播客 | yitianshijie.net |
+| 一天世界 | 会员制人文科技博客+播客 | - | newsletter·内容工具 | 中国 | 李如一(不鸟万如一) | 2015 | 1 | solo-creator | ? | active | 中 | 一天世界 newsletter/播客 | yitianshijie.net |
 | 42章经 | 一级市场创投newsletter+播客 | - | newsletter·内容工具 | 中国 | 曲凯 | 2016 | 2-10 | solo-creator | ? | active | 中 | 公众号「42章经」/小宇宙 | ? |
 | 乱翻书 | 互联网产业观察播客 | - | newsletter·内容工具 | 中国 | 潘乱 | 2021 | 2-10 | solo-creator | ? | active | 中 | 小宇宙「乱翻书」/公众号 | ? |
 | 声动活泼 | 独立播客内容公司 | - | newsletter·内容工具 | 中国 | 徐涛、丁教 | 2020 | 11-50 | took-seed | ? | active | 中 | 小宇宙「声动早咖啡」「声东击西」 | ? |
@@ -224,7 +224,7 @@
 | 无码科技 (Readhub) | 不追规模的独立产品小团队 | - | newsletter·内容工具 | 中国 | 冯大辉(Fenng) | 2016 | 2-10 | took-seed | ? | active | 中 | 公众号「小道消息」/X | readhub.cn |
 | Vozo | AI视频翻译与重配音 | HeyGen | 垂直SaaS | 中国 | 周昌印 | 2023 | 11-50 | took-seed | 半年$1M ARR | active | 中 | X「周昌印」/Product Hunt | vozo.ai |
 | Notta | AI会议转录主攻日本市场 | Otter.ai | 生产力·笔记 | 日本 | 张岩 | 2020 | 50+ | took-seed | 约$10M ARR | active | 中 | 日本市场SEO/36氪 | notta.ai |
-| Devv.ai | 面向开发者的AI搜索 | Perplexity | 开发者工具 | 中国 | 蒋泽宇 | 2023 | 2-10 | solo-creator,pure-bootstrap | ? | active | 中 | X「蒋泽宇」/即刻 | devv.ai |
+| Devv.ai | 开发者AI搜索→AI Coding Agent | Perplexity | 开发者工具 | 中国 | Jiayuan Zhang(@Tisoga) | 2023 | 2-10 | solo-creator,pure-bootstrap | ? | active | 中 | X @Tisoga/即刻「加元」 | devv.ai |
 | Zeabur | 独立开发者友好的一键部署PaaS | Vercel | 开发者工具 | 中国台湾 | 林沅霖 | 2022 | 2-10 | took-seed | ? | active | 中 | X/硬地骇客播客/Discord | zeabur.com |
 | Dora AI | prompt生成3D动效网站 | Framer | 开发者工具 | 中国 | Will Choo 等 | 2021 | 2-10 | took-seed | ? | active | 中 | Product Hunt/X | dora.run |
 | Trickle | AI搭站出海，PH常客 | - | 开发者工具 | 新加坡 | Jarod Xu 等 | 2023 | 2-10 | took-seed | ? | active | 中 | Product Hunt/X | trickle.so |
