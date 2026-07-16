@@ -11,6 +11,11 @@
 
 **快照统计**：开发者工具 38 ｜ 独立Mac·iOS应用 38 ｜ newsletter·内容工具 32 ｜ 生产力·笔记 23 ｜ 垂直SaaS 22 ｜ 信息付费·社区 20 ｜ 隐私·分析 16 ｜ 本地优先·开源infra 13 ｜ 电商·插件生态 4 ｜ 独立游戏 4 ｜｜ 触达度高 84 家 ｜ 华人样本 ~50 家
 
+**已深挖 26 家**（档案在 `deep/`，约访草稿在 `outreach/`，2026-07-16）：
+华人 9：小报童 · 哥飞社群 · 阮一峰周刊 · Pake(tw93) · LobeChat · HelloGitHub · 沉浸式翻译 · Heptabase · 滴答清单
+全球 17：ScreenshotOne · 750 Words · Obsidian · Resend · 37signals · BuiltWith · Plausible · Fathom · Buttondown · Transistor · Bannerbear · Tony Dinh · Sidekiq · Tally · Jotform · Pieter Levels · Kit(ConvertKit)
+（flomo / 生财有术 / 无码科技 不重复深挖——《夹缝生长》已有专章）
+
 | 名称 | 一句话缝隙 | 对标巨头 | 品类 | 国家 | 创始人 | 成立年 | 团队规模 | 类型tag | 营收 | 状态 | 触达度 | 最佳渠道 | 官网 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | Resend | 给开发者做好看好用的邮件 API | SendGrid | 开发者工具 | 美国 | Zeno Rocha | 2023 | 11-50 | took-seed | ?（2024 a16z $18M A轮） | active | 高 | X @zenorocha | resend.com |
